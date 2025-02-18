@@ -1,6 +1,4 @@
-
 ![Logo](https://via.placeholder.com/600x150?text=Your+Logo+Here+600x150)
-
 
 # Project Title
 
@@ -37,13 +35,12 @@ Your text comes here
 #### Run server
 Your text comes here
 ```bash
-  pyhton server.py -p 8080
+  python server.py -p 8080
 ```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `-p` | `int` | **Required**. Server port |
-
 
 
 ## Results
@@ -60,6 +57,5 @@ Some links related to your project come here.
 
 ## Authors
 Authors and their github link come here.
-- [@Author1](https://github.com/Sharif-University-ESRLab)
-- [@Author2](https://github.com/Sharif-University-ESRLab)
-
+- [@Author1](https://github.com/@Author1)
+- [@Author2](https://github.com/@Author2)
